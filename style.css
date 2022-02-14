@@ -1,0 +1,53 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-image: url("download.jfif");
+    background-size: cover;
+    color: red;
+}
+
+.div_speed{
+    float: left;
+}
+
+#speed{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+
+#volume{
+    font-size: 25px;
+    margin: 15px; 
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.note{
+    color: yellow;
+}
